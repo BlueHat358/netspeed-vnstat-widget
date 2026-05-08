@@ -7,7 +7,7 @@
             }
         ],
         "Category": "System Information",
-        "Description": "Displays network bandwidth with vnStat daily/weekly/monthly stats",
+        "Description": "Displays network bandwidth with vnStat daily/monthly stats and alert usage",
         "Icon": "network-connect",
         "Id": "org.kde.netspeedVnstatWidget",
         "License": "GPL2",
