@@ -163,6 +163,6 @@ Modifications:
 - Added configurable command launcher
 - Updated and adjusted Plasma 6 packaging and metadata
 
-This project is licensed under the GNU General Public License version 2 or later.
+This project is licensed under the GNU General Public License version 2
 
 See [`LICENSE`](./LICENSE) for the full GPLv2 license text.
