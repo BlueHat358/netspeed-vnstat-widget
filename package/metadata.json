@@ -1,25 +1,28 @@
 {
-    "KPlugin": {
-        "Authors": [
-            {
-                "Email": "bluehat358@gmail.com",
-                "Name": "BlueHat358"
-            }
-        ],
-        "Category": "System Information",
-        "Description": "Displays network bandwidth with vnStat daily/monthly stats and alert usage",
-        "Icon": "network-connect",
-        "Id": "org.kde.netspeedVnstatWidget",
-        "License": "GPL2",
-        "Name": "Netspeed + vnStat Widget",
-        "KPackageStructure": [
-            "Plasma/Applet"
-        ],
-        "Version": "1.0",
-        "Website": "https://github.com/BlueHat358/netspeed-vnstat-widget"
-    },
-    "X-KDE-ParentApp": "",
-    "X-Plasma-API-Minimum-Version": "6.0",
-    "X-Plasma-MainScript": "ui/main.qml",
-    "X-Plasma-RemoteLocation": ""
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "bluehat358@gmail.com",
+        "Name": "BlueHat358"
+      },
+      {
+        "Name": "Daniel Faust"
+      }
+    ],
+    "Category": "System Information",
+    "Description": "Displays network bandwidth with vnStat daily/monthly stats and usage alerts",
+    "Icon": "network-connect",
+    "Id": "org.kde.netspeedVnstatWidget",
+    "License": "GPL-2.0-or-later",
+    "Name": "Netspeed + vnStat Widget",
+    "KPackageStructure": [
+      "Plasma/Applet"
+    ],
+    "Version": "1.0",
+    "Website": "https://github.com/BlueHat358/netspeed-vnstat-widget"
+  },
+  "X-KDE-ParentApp": "",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-MainScript": "ui/main.qml",
+  "X-Plasma-RemoteLocation": ""
 }
