@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "bluehat358@gmail.com",
+                "Name": "BlueHat358"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Displays network bandwidth with vnStat daily/weekly/monthly stats",
+        "Icon": "network-connect",
+        "Id": "org.kde.netspeedVnstatWidget",
+        "License": "GPL2",
+        "Name": "Netspeed + vnStat Widget",
+        "KPackageStructure": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/BlueHat358/netspeed-vnstat-widget"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-RemoteLocation": ""
+}
