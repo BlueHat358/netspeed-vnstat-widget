@@ -13,7 +13,7 @@
     "Description": "Displays network bandwidth with vnStat daily/monthly stats and usage alerts",
     "Icon": "network-connect",
     "Id": "org.kde.netspeedVnstatWidget",
-    "License": "GPL-2.0-or-later",
+    "License": "GPL-2.0",
     "Name": "Netspeed + vnStat Widget",
     "KPackageStructure": [
       "Plasma/Applet"
